@@ -1,0 +1,54 @@
+[
+    {
+        "enunciado": "1. En que piso de vegetacion se desarrolla un matorral xerofilo integrado por especies del genero Euphorbia?",
+        "opciones": ["a) En el piso de transicion.", "b) En el piso montano-humedo.", "c) En el piso montano-seco.", "d) En el piso basal."],
+        "respuesta_correcta": "d"
+    },
+    {
+        "enunciado": "2. En que etapa de la evolucion de los paisajes canarios es escasa la incidencia de la accion humana?",
+        "opciones": ["a) Durante los siglos Xv al XiX.", "b) Despues de 1960.", "c) En la etapa prehispanica.", "d) Entre 1930 y 1960."],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "3. En que etapa tiene lugar la construccion de los paisajes agrarios tradicionales de las islas?",
+        "opciones": ["a) Durante los siglos Xv al XiX.", "b) Despues de 1960.", "c) En la etapa prehispanica.", "d) Entre 1930 y 1960."],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado": "4. Cual es el primer cultivo de exportacion y en que siglo se introdujo?",
+        "opciones": ["a) El platano en el siglo Xv.", "b) El tomate en el siglo Xvii.", "c) El algodon en el siglo XiX.", "d) La cana de azucar en el siglo Xv."],
+        "respuesta_correcta": "d"
+    },
+    {
+        "enunciado": "5. Cuales son las consecuencias ecologicas del uso tradicional del territorio durante los siglos Xv al XiX?",
+        "opciones": ["a) Las repoblaciones, las crisis economicas.", "b) Las crisis de subsistencia.", "c) La deforestacion, la desertificacion e introduccion de especies vegetales y animales.", "d) Ninguna de las anteriores."],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "6. En que periodo tiene lugar el cambio de modelo agricola tradicional al capitalista?",
+        "opciones": ["a) Entre los siglos Xv al XiX.", "b) En el periodo prehispanico.", "c) Entre 1900 y 1930.", "d) Entre 1930 y 1960."],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "7. Que cultivo de exportacion supuso fuertes inversiones en materia hidraulica y en infraestructuras agrarias?",
+        "opciones": ["a) La tunera.", "b) La pita.", "c) El platano.", "d) El tomate."],
+        "respuesta_correcta": "c"
+    },
+    {
+        "enunciado": "8. En que se fundamenta la idea de que la vulnerabilidad de los peligros naturales se ha 'litoralizado' durante los ultimos decenios?",
+        "opciones": ["a) En la migracion de la poblacion y sus actividades a los litorales.", "b) En el incremento de los temporales maritimos.", "c) En el ascenso del nivel marino debido al cambio climatico global.", "d) Ninguna de las anteriores."],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado": "9. Cual es la situacion sinoptica que supone un 'alto riesgo' de incendios para Canarias?",
+        "opciones": ["a) Las invasiones de aire sahariano.", "b) Las gotas frias.", "c) El tiempo 'normal' de alisios.", "d) Las perturbaciones atlanticas."],
+        "respuesta_correcta": "a"
+    },
+    {
+        "enunciado": "10. Cuales son las condiciones atmosfericas de 'elevada peligrosidad' en Canarias en materia de incendios forestales?",
+        "opciones": ["a) Masas de aire templado-humedo con vientos moderados.", "b) Temperaturas superiores a 40 ºC, humedad relativa inferior a 20% y vientos racheados.", "c) Temperaturas"],
+        "respuesta_correcta": "a"
+    }
+]
+
+
