@@ -1,0 +1,9 @@
+# Este proyecto utiliza principalmente bibliotecas estándar de Python.
+# No se requieren instalaciones adicionales.
+socket
+json
+random
+threading
+time
+logging
+tkinter
